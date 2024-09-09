@@ -2876,7 +2876,7 @@ textarea.is-invalid {
 }
 
 .bg-smoke {
-  background-color: var(--smoke-color) !important;
+  background-color: #F2F2F2 !important;
 }
 
 .bg-smoke2 {
