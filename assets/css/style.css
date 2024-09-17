@@ -1,3 +1,5 @@
+
+
 @charset "UTF-8";
 :root {
   --theme-color: #4BAF47;
@@ -26,6 +28,7 @@
   --section-title-space: 65px;
   --ripple-ani-duration: 5s;
 }
+
 
 /*------------------- 1.5. Typography -------------------*/
 html,
@@ -17689,7 +17692,7 @@ span.select2-selection.select2-selection--single:focus {
   left: 50%; */
   width: 100%;
   height: auto;
-  object-fit: cover;
+  /* object-fit: cover; */
   /* transform: translate(-50%, -50%); */
   z-index: -1;
 }
@@ -17728,3 +17731,16 @@ span.select2-selection.select2-selection--single:focus {
   width: 300px;
   margin-left: 15px;
 }
+
+@media only screen and (max-width: 768px) {
+  .headerlogo-img{
+      width: 250px !important;
+  }
+}
+@media only screen and (max-width: 370px) {
+  .headerlogo-img{
+      width: 200px !important;
+  }
+}
+
+@import url("responsive.css");
