@@ -17743,4 +17743,58 @@ span.select2-selection.select2-selection--single:focus {
   }
 }
 
+/* product page  */
+.single-product{
+  box-shadow: 6px 4px 10px;
+  background: #fff;
+}
+
+.product-info{
+  padding: 10px 5px 20px;
+  
+}
+
+.product-name{
+  text-align: center;
+  margin: 0px;
+  font-family: 'Century Gothic Paneuropean', sans-serif;
+}
+
+.product-descr{
+  text-align: center;
+  padding: 4px 10px 0px;
+  font-size: 13px;
+  color: #565656;
+  font-family: 'Century Gothic Paneuropean', sans-serif;
+}
+
+.product-price{
+  text-align: center;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 0.8;
+  color: black;
+}
+
+.book-now-div{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.book-now-btn{
+  background: var(--theme-color);
+  color: white;
+  padding: 4px 19px;
+  border-radius: 3px;
+}
+.book-now-btn:hover{
+  font-weight: 800;
+  color: var(--theme-color);
+  background-color: #fff;
+  box-shadow: 1px 5px 6px 0px #b3b3b3;
+
+
+}
+
 @import url("responsive.css");
