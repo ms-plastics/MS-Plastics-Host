@@ -17753,7 +17753,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .product-info{
-  padding: 10px 5px 20px;
+  padding: 30px 5px;
   
 }
 
@@ -17804,6 +17804,12 @@ span.select2-selection.select2-selection--single:focus {
 section{
   padding: 70px 20px;
 
+}
+.bg-custom-first{
+  background-color: #ffffff !important;
+}
+.bg-custom-second{
+  background-color: #F9F9F9 !important;
 }
 /* bouncing logo  */
 
