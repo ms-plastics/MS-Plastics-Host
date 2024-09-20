@@ -17818,14 +17818,14 @@ section{
   	display: flex;
 	justify-content: center;
 	align-items: center;
-    padding: 5px 0px;
+    padding: 0px 0px 15px;
 }
 
 .bouncing-imge {
     animation: icon-bounce  2s infinite;
 }
 .bouncing-logo {
-    width: 140px; /* Adjust as needed */
+    width: 170px; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
     animation: icon-bounce  2s infinite;
 }
