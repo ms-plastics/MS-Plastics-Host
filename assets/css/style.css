@@ -17842,6 +17842,13 @@ section{
 .gallery-image{
   width: 100%;
 }
+.contact-info_text{
+  color: var(--body-color);
+}
+.contact-info_text:hover{
+  color: var(--theme-color);
+  font-weight: 600;
+}
 
 
 @-webkit-keyframes icon-bounce {
