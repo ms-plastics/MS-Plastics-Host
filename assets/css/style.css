@@ -11527,7 +11527,7 @@ span.select2-selection.select2-selection--single:focus {
 .counter-card-icon {
   margin-bottom: 44px;
 }
-.counter-card-icon svg {
+.counter-card-icon img {
   width: 75px;
   height: 75px;
   transition: 0.4s;
@@ -11543,7 +11543,7 @@ span.select2-selection.select2-selection--single:focus {
   color: var(--white-color);
   margin-bottom: -0.3em;
 }
-.counter-card:hover .counter-card-icon svg {
+.counter-card:hover .counter-card-icon img {
   transform: rotateY(180deg);
 }
 
@@ -11551,6 +11551,14 @@ span.select2-selection.select2-selection--single:focus {
 @media (max-width: 991px) {
   .counter-card-icon {
     margin-bottom: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .header-layout3 .header-top {
+    display: none;
+  }
+  .hero-3{
+    margin-top: 87px !important;
   }
 }
 /* Counter 2 ---------------------------------- */
@@ -17766,7 +17774,11 @@ span.select2-selection.select2-selection--single:focus {
   padding: 30px 5px;
   
 }
-
+.form-contact-section{
+  background: #FAFAFA !important;
+  padding: 57px 0px;
+  border-radius: 15px;
+}
 .product-name{
   text-align: center;
   margin: 0px;
