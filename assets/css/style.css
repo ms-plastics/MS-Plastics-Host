@@ -11572,9 +11572,10 @@ span.select2-selection.select2-selection--single:focus {
   height: 150px;
   width: 150px;
   line-height: 150px;
-  background: var(--theme-color);
+  /* background: var(--theme-color); */
   border-radius: 50%;
   display: inline-block;
+  border: solid var(--theme-color);
 }
 
 /* Counter 3 ---------------------------------- */
