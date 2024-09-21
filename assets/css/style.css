@@ -5843,7 +5843,7 @@ ul.wp-block-latest-posts li:last-child {
 
 /*------------------- 4.3. Footer  -------------------*/
 .footer-wrapper {
-  background: rgba(255, 244, 239, 0.7);
+  background-color: #000;
 }
 
 .copyright-wrap {
