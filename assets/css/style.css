@@ -11230,12 +11230,15 @@ span.select2-selection.select2-selection--single:focus {
   font-size: 14px;
   gap: 8px;
 }
+.testi-box_h6{
+  margin-top: 16px;
+
+}
 .testi-box_text {
   margin-bottom: -0.4em;
   line-height: 1.667;
   font-size: 16px;
   font-weight: 500;
-  margin-top: 16px;
   transition: 0.4s;
 }
 .testi-box_profile {
@@ -11280,6 +11283,9 @@ span.select2-selection.select2-selection--single:focus {
 .testi-box:hover .testi-box_text {
   color: var(--white-color);
 }
+.testi-box:hover .testi-box_h6 {
+  color: var(--white-color) !important;
+}
 .testi-box:hover .testi-box_name {
   color: var(--white-color);
 }
@@ -11305,7 +11311,6 @@ span.select2-selection.select2-selection--single:focus {
 }
 /* Testimonial 2 ---------------------------------- */
 .testi-box.style2 {
-  background: var(--smoke-color);
   border: 0;
 }
 .testi-box.style2 .media {
@@ -11329,8 +11334,12 @@ span.select2-selection.select2-selection--single:focus {
 .testi-box.style2 .testi-box_profile .testi-box_review {
   margin-bottom: 20px;
 }
-.testi-box.style2 .testi-box_text {
+.testi-box.style2 .testi-box_h6 {
   margin-top: 34px;
+  margin-top: 34px;
+  color: #616161;
+  text-align: center;
+
 }
 .testi-box.style2:hover {
   background: var(--theme-color);
