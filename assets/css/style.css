@@ -17839,6 +17839,9 @@ section{
     height: auto; /* Maintain aspect ratio */
     animation: icon-bounce  2s infinite;
 }
+.gallery-image{
+  width: 100%;
+}
 
 
 @-webkit-keyframes icon-bounce {
