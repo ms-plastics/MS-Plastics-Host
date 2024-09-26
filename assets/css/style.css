@@ -6281,7 +6281,7 @@ ul.wp-block-latest-posts li:last-child {
   color: var(--theme-color);
 }
 .breadcumb-menu li.active {
-  color: var(--white-color);
+  color: #000;
 }
 .breadcumb-menu li:last-child {
   padding-right: 0;
@@ -6310,7 +6310,7 @@ ul.wp-block-latest-posts li:last-child {
 }
 
 .breadcumb-title {
-  color: var(--white-color);
+  color: #000;
   margin: -0.2em 0 -0.2em 0;
   line-height: 1.1;
   font-size: 60px;
@@ -6338,13 +6338,15 @@ ul.wp-block-latest-posts li:last-child {
 }
 
 .breadcumb-wrapper {
-  background-size: cover;
-  padding: 282px 0 140px;
+  background-size: contain;
+  padding: 282px 0 30px;
   overflow: hidden;
   position: relative;
   z-index: auto;
   text-align: center;
-  background-color: var(--title-color);
+  /* background-color: var(--title-color); */
+  background-color: #fff;
+  box-shadow: 0px -5px 16px #002f69;
   /* Small devices */
 }
 @media (max-width: 767px) {
