@@ -17898,3 +17898,7 @@ section{
   /* bouncing logo end  */
 
 @import url("responsive.css");
+.icon-custom{
+  width: 150px;
+  margin-left: 20px;
+}
