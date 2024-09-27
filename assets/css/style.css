@@ -14397,7 +14397,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .process-card.style3 {
-  padding: 30px;
+  padding: 30px !important;
   border: 2px solid var(--border-color);
   transition: 0.4s;
   border-radius: 15px;
