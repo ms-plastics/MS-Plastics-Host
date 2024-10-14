@@ -17905,3 +17905,8 @@ section{
 .theme-color{
   color: var(--theme-color) !important;
 }
+.ul-pointer{
+  padding: 5px 32px;
+  color: var(--theme-color);
+  text-transform: lowercase;
+}
