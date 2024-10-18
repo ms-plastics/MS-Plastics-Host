@@ -17774,7 +17774,9 @@ span.select2-selection.select2-selection--single:focus {
 
 .product-info{
   padding: 30px 5px 10px;
-  
+}
+.product-info-1{
+  padding: 30px 5px;
 }
 .form-contact-section{
   background: #FAFAFA !important;
