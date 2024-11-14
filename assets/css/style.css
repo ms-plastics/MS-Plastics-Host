@@ -17912,3 +17912,7 @@ section{
   color: var(--theme-color);
   text-transform: lowercase;
 }
+
+.blue-icon-contact {
+  filter: invert(25%) sepia(100%) saturate(7518%) hue-rotate(189deg) brightness(72%) contrast(295%);
+}
