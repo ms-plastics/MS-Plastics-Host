@@ -1,2 +1,8 @@
 User-agent: *
 Disallow:
+
+# Main Sitemap
+Sitemap: https://msplastic.in/sitemap.xml
+
+# Image Sitemap
+Sitemap: https://msplastic.in/image-sitemap.xml

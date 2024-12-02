@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://msplastic.in/</loc>
+	<lastmod>2024-12-02T17:01:07+01:00</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/logo.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/experiance/1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/products/Trolley/4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/products/Trolley/1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/products/Trolley/2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/products/Trolley/3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/quality.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/experiance.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/india.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/products.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/about/TROLLY-CABINETS-About.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/logo-footer.PNG</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://msplastic.in/index.html</loc>
+	<lastmod>2024-12-02T17:01:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://msplastic.in/about.html</loc>
+	<lastmod>2024-12-02T17:01:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/about/about.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/about/PP-Containers-About.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/manufacture.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/solution.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/quality1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/customer.PNG</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://msplastic.in/pp-containers.html</loc>
+	<lastmod>2024-12-02T17:01:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/durablity.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/heat.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/light.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/ecco.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://msplastic.in/trolly-cabinets.html</loc>
+	<lastmod>2024-12-02T17:01:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/movment.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/afford.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://msplastic.in/battery-accessories.html</loc>
+	<lastmod>2024-12-02T17:01:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/eng.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/rang.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://msplastic.in/contact.html</loc>
+	<lastmod>2024-12-02T17:01:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/contact-envelope.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/contact-calendar.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://msplastic.in/assets/img/icon/contact-home.svg</image:loc>
+	</image:image>
+</url>
+</urlset>
